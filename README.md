@@ -1,2 +1,2 @@
-# Assignment-25
-Logical and Increment Decrement Operators
+# Practice MOde
+## Logical and Increment Decrement Operators
